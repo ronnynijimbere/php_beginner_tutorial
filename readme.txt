@@ -1,0 +1,23 @@
+PH
+PHP is good language to learnand MySQL
+
+-A server-side scripting langua
+-runs on the server and not on the browser
+
+Requirement
+php
+mysql
+local dev set-up
+
+MySQL
+-Relational database management system that runs on a server
+-We use SQL to communicate with the database from PHP
+-SQL = Structured Query Language
+
+MySQL Database
+-Can contain several tables,
+-Each Table stores a particular 'model' of data (e.g pizzas, users)
+-each row represants a single record (e.g a single pizza)
+-Each column represants a property of that record
+-We use SQL to communicate with database from PHP code
+PHP is good language to learn
