@@ -1,6 +1,7 @@
-PH
+
 PHP is good language to learnand MySQL
 
+PHP
 -A server-side scripting langua
 -runs on the server and not on the browser
 
